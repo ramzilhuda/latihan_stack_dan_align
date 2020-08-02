@@ -11,6 +11,10 @@ Tutorial Membuat Stack dan Align dimana ada 3 lapisan yang akan kita buat
 3. Button terdiri dari :
     1 Buah button 
 
+
+Dengan Hasil Sebagai berikut : 
+![Screenshot_2020-08-02-08-07-58-09_ac3f8e5560ec08688b168879fc153477 1](https://user-images.githubusercontent.com/60292040/89113176-f3950000-d497-11ea-8171-858a226c17ce.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
