@@ -1,6 +1,15 @@
 # latihan_stack_dan_align
 
-A new Flutter project.
+Tutorial Membuat Stack dan Align dimana ada 3 lapisan yang akan kita buat 
+1. Background terdiri dari : 
+    - 1 buah Column
+    - 2 Buah Baris :
+        4 Container
+2. Listview terdiri dari : 
+    Kumpulan Text dengan ukuran text 30
+
+3. Button terdiri dari :
+    1 Buah button 
 
 ## Getting Started
 
